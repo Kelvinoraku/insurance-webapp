@@ -1,0 +1,169 @@
+body  {
+  background-color: rgb(1, 41, 22);
+  width: 1000px;
+  height: 500px;
+}
+
+.gen-div{
+  height: 500px;
+  width: 1800px;
+}
+
+.INSURNCE {
+  font-family: arial;
+  color: white;
+  font-size: 30px;
+  display: inline-block;
+  margin-left: 100px;
+}
+
+.home{
+  color: white;
+  font-size: 18px;
+  display: inline-block;
+  margin-left: 800px;
+}
+
+.service{
+  color: white;
+  font-size: 18px;
+  display: inline-block;
+  margin-left: 90px;
+}
+.ins-service{
+  display: inline-block;
+  font-size: 18px;
+  color: white;
+  margin-left: 90px;
+}
+
+.button{
+  display: inline-block;
+  margin-left: 1500px;
+  bottom: 50px;
+  color: black;
+  background-color: rgba(195, 144, 4, 0.996);
+  font-size: 25px;
+  border-radius: 5px;
+  padding: 5px 10px;
+  position: relative;
+  z-index: 1;
+}
+
+.cover-div{
+  width: 500px;
+}
+
+.covered  {
+  display: inline-block;
+  font-size: 50px;
+  color: white;
+  width: 380px;
+  margin-left: 100px;
+  margin-bottom: 0;
+  vertical-align: top;   
+}
+
+.french{
+  font-family: arial;
+  font-size: 15px;
+  color: white;
+  width: 480px;
+  margin-left: 100px;
+  line-height: 30px;
+}
+
+.image{
+  display: inline-block;
+  margin-left: 800px;
+  width: 564px;
+  position: absolute;
+  height: 820px;
+  top: 170px;
+  left: 200px;
+  margin-left: 500px;
+}
+
+.bn{
+  display: inline-block;
+  margin-left: 1000px;
+  width: 1250px;
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  z-index: 0;
+}
+
+.get-started{
+  font-family: arial;
+  display: inline-block;
+  color: black;
+  border-radius: 5px;
+  background-color: rgba(195, 144, 4, 0.996);
+  margin-left:100px;
+  margin-top: 300px;
+  font-size: 15px;
+  padding-left: 22px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-right: 22px;
+}
+
+.watch{
+  font-family: arial;
+  display: inline-block;
+  color: white;
+  margin-left: 50px;
+  font-size: 12px;
+}
+
+.sponsor{
+  display: inline-block;
+  position: absolute;
+  left: 100px;
+  margin-top: 500px;
+  width: 350px;
+}
+
+.after{
+  display: inline-block;
+  right: 90px;
+  position: relative;
+  z-index: 1;
+  top: 120px;
+}
+
+.qualified{
+  display: inline-block;
+  width: 170px;
+  height: 60px;
+  margin-left: 255px;
+  position: relative;
+  z-index: 1;
+  bottom: 0;
+  margin-top: 325px;
+}
+
+.internet{
+  display: inline-block;
+  position: relative;   
+  z-index: 1;
+  margin-left: 200px;
+  bottom: 580px;
+}
+
+.lock{
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+  right: 510px;
+  bottom: 450px;
+}
+
+.star{
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+  bottom: 270px;
+  left: 120px;
+}
