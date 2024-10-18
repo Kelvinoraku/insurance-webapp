@@ -1,0 +1,185 @@
+body  {
+  background-color: rgb(1, 41, 22);
+  border: 20px;
+  border-color: brown;
+  width: 1000px;
+  height: 500px;
+}
+
+.gen-div{
+  height: 500px;
+  width: 1800px;
+}
+
+.INSURNCE {
+  font-family: arial;
+  color: white;
+  font-size: 30px;
+  display: inline-block;
+  margin-left: 100px;
+  top: 40px;
+}
+
+.home{
+  color: white;
+  font-size: 18px;
+  display: inline-block;
+  margin-left: 800px;
+  margin-bottom: 300px;
+  position: absolute;
+  top: 40px;
+}
+
+.service{
+  color: white;
+  position: relative;
+  font-size: 18px;
+  display: inline-block;
+  margin-left: 950px;
+  bottom: 76px;
+}
+.ins-service{
+  display: inline-block;
+  position: relative;
+  font-size: 18px;
+  color: white;
+  margin-left: 90px;
+  bottom: 76px;
+}
+
+.button{
+  display: inline-block;
+  margin-left: 1500px;
+  bottom: 120px;
+  color: black;
+  background-color: rgba(195, 144, 4, 0.996);
+  font-size: 25px;
+  border-radius: 5px;
+  padding: 5px 10px;
+  position: relative;
+  z-index: 1;
+}
+
+.cover-div{
+  width: 500px;
+}
+
+.covered  {
+  display: inline-block;
+  position: relative;
+  font-size: 78px;
+  color: white;
+  width: 600px;
+  margin-left: 100px;
+  bottom: 400px;
+}
+
+.french{
+  font-family: arial;
+  position: relative;
+  font-size: 18px;
+  color: white;
+  width: 590px;
+  margin-left: 100px;
+  line-height: 50px;
+  bottom: 450px;
+}
+
+.image{
+  display: inline-block;
+  margin-left: 800px;
+  width: 564px;
+  position: absolute;
+  height: 810px;
+  top: 170px;
+  left: 300px;
+  margin-left: 500px;
+}
+
+.bn{
+  display: inline-block;
+  left: 690px;
+  width: 1100px;
+  position: relative;
+  right: 150px;
+  bottom: 1610px;
+  z-index: 0;
+}
+
+.get-started{
+  font-family: arial;
+  display: inline-block;
+  position: relative;
+  color: black;
+  border-radius: 5px;
+  background-color: rgba(195, 144, 4, 0.996);
+  margin-left:100px;
+  bottom: 660px;
+  font-size: 15px;
+  padding-left: 22px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-right: 22px;
+}
+
+.watch{
+  font-family: arial;
+  display: inline-block;
+  position: relative;
+  color: white;
+  margin-left: 50px;
+  font-size: 12px;
+  bottom: 650px;
+}
+
+.sponsor{
+  display: inline-block;
+  position: relative;
+  right: 190px;
+  bottom: 1750px;
+  width: 350px;
+}
+
+.after{
+  display: inline-block;
+  right: 90px;
+  position: relative;
+  z-index: 1;
+  left: 1236px;
+  bottom: 1760px;
+}
+
+.qualified{
+  display: inline-block;
+  width: 170px;
+  height: 60px;
+  margin-left: 355px;
+  position: relative;
+  z-index: 1;
+  bottom: 660px;
+  margin-top: 325px;
+}
+
+.internet{
+  display: inline-block;
+  position: relative;  
+  z-index: 1;
+  margin-left: 1120px;
+  bottom: 1350px;
+}
+
+.lock{
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+  left: 680px;
+  bottom: 1098px;
+}
+
+.star{
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+  bottom: 1090px;
+  left: 1350px;
+}
