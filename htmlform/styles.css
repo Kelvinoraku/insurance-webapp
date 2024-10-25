@@ -1,0 +1,190 @@
+table{
+  width: 60%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  margin-left: 100px;
+}
+
+label{
+  font-weight: bold;
+  font-size: 30px;
+  color: red;
+  position: relative;
+}
+
+.submit{
+  position: relative;
+  bottom: -20px;
+}
+
+.html{
+  margin-top: 89px;
+  font-size: 38px;
+  color: red;
+  margin-left: -260px;
+}
+
+input{
+  font-size: 20px;
+  position: relative;
+  margin-top: 20px;
+}
+
+input[type='checkbox'] {
+  margin-bottom: 20px;
+}
+
+
+label[for='subjects'] {
+  margin-top: 100px;
+}
+
+#male {
+  margin-left: 25px;
+  margin-top: -20px;
+}
+
+.bio{
+  position: relative;
+  top: 100px;
+}
+ 
+
+.sign-up{
+  position: relative;
+  top: 50px;
+}
+
+.email{
+  display: inline-block;
+  left: 900px;
+  margin-bottom: 10px;
+  top: -35px;
+}
+
+.email1{
+  position: relative;
+  left: 750px;
+  bottom: 1px;
+}
+
+.user-name{
+  position: relative;
+  top: 80px;
+}
+
+.gender{
+  position: relative;
+  top: 5px;
+}
+
+
+.date{
+  position: relative;
+  left: 900px;
+  top: 7px;
+}
+
+.DOB{
+  position: relative;
+  top: 43px;
+  left: 367px;
+}
+
+.phone{
+  position: relative;
+  left: 80px;
+  top: 38px;
+}
+
+.contact{
+  position: relative;
+  top: 44px;
+}
+
+.enter{
+  position: relative;
+  top: 46px;
+  left: 200px;
+}
+
+button{
+  position: relative;
+  background-color: red;
+  color: white;
+  border: none;
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 5px;
+  bottom: 10px
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ddd; 
+  text-align: left;
+  font-size: 20px;
+}
+
+th{
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
+
+tr:nth-child(odd){
+  background-color: #ccc;
+}
+
+tr:nth-child(even){
+  background-color: red;
+  color: white;
+  
+}
+
+tr{ 
+  cursor: pointer;
+}
+
+tr:nth-child(even):hover{
+  background-color: gray;
+}
+tr:nth-child(odd) :hover{
+  background-color: gray;
+
+}
+
+.p-6 p:nth-child(p4){
+font-size: 50px;
+}
+
+h1{
+  position: relative;
+  left: 100px;
+}
+
+h2{
+  position: relative;
+  left: 355px;
+}
+
+form {
+  margin-left: 100px;
+}
+
+.info{
+  margin-left: 400px;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bio{
+  position: relative;
+  top: 30px;
+}
+
+/*
+input{
+  width: 40px;
+  margin-bottom: 20px;
+} 
+*/

@@ -20,6 +20,11 @@ body  {
   top: 40px;
 }
 
+.home-tag li a {
+  color: white;
+  text-decoration: none;
+}
+
 .home{
   color: white;
   font-size: 18px;
@@ -28,6 +33,7 @@ body  {
   margin-bottom: 300px;
   position: absolute;
   top: 40px;
+  z-index: 1;
 }
 
 .service{
@@ -37,6 +43,7 @@ body  {
   display: inline-block;
   margin-left: 950px;
   bottom: 76px;
+  z-index: 1;
 }
 .ins-service{
   display: inline-block;
